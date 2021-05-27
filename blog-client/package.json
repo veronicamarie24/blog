@@ -3,6 +3,7 @@
   "homepage": "http://blog.veronicaval.com/",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "@okta/oidc-middleware": "^4.1.0",
     "@testing-library/jest-dom": "^5.12.0",
