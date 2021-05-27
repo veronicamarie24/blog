@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-2021"]=this["webpackJsonpportfolio-2021"]||[]).push([[0],{4:function(t,o,e){"use strict";e.r(o);e(0);var n=e(3),r=e.n(n),s=e(2),c=function(){return Object(s.jsx)("div",{})};r.a.render(Object(s.jsx)(c,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.21ad03fc.chunk.js.map
